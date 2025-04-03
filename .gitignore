@@ -1,0 +1,7 @@
+/node_modules/
+.idea
+uploads/
+audio/
+.env
+.DS_Store
+
